@@ -20,4 +20,4 @@ CloudShip is a production-style DevOps project demonstrating how modern companie
 - Follow production-grade DevOps practices
 
 ## Current Status
-Phase 1 – Project Foundation 
+Phase 1 – Project Foundation
