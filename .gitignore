@@ -1,0 +1,11 @@
+sonar-project.properties
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+
+# Sensitive files
+.env
+.aws/
